@@ -1,40 +1,79 @@
-# Privacy Policy
+# **Medical-ph – Privacy Policy**
 
-[[Zohaal]] takes your privacy seriously. To better protect your privacy [["we"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+Welcome to **Medical-ph**.
+We value your privacy, and this document explains how we collect, use, and protect your information.
 
+---
 
-## Collection of Routine Information
+## **1. Collection of Routine Information**
 
-This [["app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["app"]]. The information is tracked for routine administration and maintenance purposes.
+Medical-ph may collect basic technical information such as:
 
+* IP addresses
+* Application details
+* Timestamps
+* Referring pages
 
-## Cookies
+This information **cannot identify you personally**. It is collected solely for administration, analytics, and maintenance purposes.
 
-Where necessary, this [["app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+---
 
+## **2. Cookies**
 
-## Advertisement and Other Third Parties
+Medical-ph may use cookies to store user preferences or interaction history.
+This helps enhance the user experience and allows us to present personalized content when needed.
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+---
 
+## **3. Advertisement & Third-Party Services**
 
-## Links to Third Party Websites
+Third-party partners, including advertisers, may use cookies, scripts, or web beacons to track user activity.
+These tools operate under the privacy policies of those third parties — not Medical-ph.
 
-[["We"]] have included links on this [["app"]] for your use and reference. [["We"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["my"]] own.
+Medical-ph has **no control** over these cookies or tracking technologies.
 
+You may opt out of Google’s advertising cookies here:
+[http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
-## Security
+---
 
-The security of your personal information is important to [["me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["I"]] strive to use commercially acceptable means to protect your personal information, [["I"]] cannot guarantee its absolute security.
+## **4. Links to Third-Party Websites**
 
+Medical-ph may include links to external websites.
+Please note:
 
-## Changes To This Privacy Policy
+* We are **not responsible** for their privacy practices.
+* Their policies may differ from ours.
+* You should always review each site’s privacy policy.
 
-This Privacy Policy is effective as of [[05/07/2022]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+---
 
-[["I"]] reserve the right to update or change [["my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["I"]] make any material changes to this Privacy Policy, [["I"]] will notify you either through the email address you have provided [["me"]], or by placing a prominent notice on [["my"]] [["app"]].
+## **5. Security**
 
+Medical-ph takes appropriate measures to protect your data.
+However:
 
-## Contact Information
+* No method of internet transmission or electronic storage is 100% secure.
+* We strive to use commercially acceptable methods but **cannot guarantee absolute security**.
 
-For any questions or concerns regarding the privacy policy, please send [["me"]] an email to [[icon.dev@icon-ts.com]].
+---
+
+## **6. Changes to This Privacy Policy**
+
+Effective date: **05/07/2022**
+
+This policy may be updated at any time.
+When changes occur:
+
+* Updates take effect immediately after being posted.
+* We may notify you via email or through a notice inside the app.
+
+We encourage users to review the Privacy Policy periodically.
+
+---
+
+## **7. Contact Information**
+
+If you have any questions about this Privacy Policy, please reach out:
+
+📧 **[adel.mohsen002@gmail.com](mailto:adel.mohsen002@gmail.com)**
