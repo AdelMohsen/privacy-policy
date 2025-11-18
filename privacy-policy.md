@@ -9,9 +9,7 @@ We value your privacy, and this document explains how we collect, use, and prote
 
 Medical-ph may collect basic technical information such as:
 
-* IP addresses
 * Application details
-* Timestamps
 * Referring pages
 
 This information **cannot identify you personally**. It is collected solely for administration, analytics, and maintenance purposes.
@@ -31,9 +29,6 @@ Third-party partners, including advertisers, may use cookies, scripts, or web be
 These tools operate under the privacy policies of those third parties — not Medical-ph.
 
 Medical-ph has **no control** over these cookies or tracking technologies.
-
-You may opt out of Google’s advertising cookies here:
-[http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
 ---
 
@@ -60,7 +55,7 @@ However:
 
 ## **6. Changes to This Privacy Policy**
 
-Effective date: **05/07/2022**
+Effective date: **05/07/2025**
 
 This policy may be updated at any time.
 When changes occur:
